@@ -2,10 +2,10 @@
 E2E Automation Testing With WebDriverIO for E-Commerce Site
 
 
-Test Case For E-Commerce Site-LUMA with WebDriverIO
-https://magento.softwaretestingboard.com/
+# Test Case For E-Commerce Site-LUMA with WebDriverIO
+# https://magento.softwaretestingboard.com/
 
-Module
+# Module
 . Customer Login
 . Product Search On Search Bar
 . Product Comapre
@@ -13,27 +13,27 @@ Module
 . Product Checkout
 
 
-Test Scenario (Customer Login)
+# Test Scenario (Customer Login)
 1.Try to logIn with invalid email email address
 2. Try to logIn with invalid password
 3. Try to Login with valid Credentials 
 4. Verify successful login
 
-Test Scenario (Product Search On Search Bar)
+# Test Scenario (Product Search On Search Bar)
 1.Go to Search Bar
 2. Search Jacket
 3. Press Enter
 
-Test Scenario (Product Compare)
+# Test Scenario (Product Compare)
 1.Select a Product
 2. Select Compare
 3. Select Compare list
 4. Verify compare list Page
 
-Test Scenario (Product Menu)
+# Test Scenario (Product Menu)
 Select A Product from Menu Item
 
-Test Scenario (Product Checkout)
+# Test Scenario (Product Checkout)
 
 1. Select a Product
 2. Add to Cart
